@@ -20,6 +20,8 @@ module.exports = {
         ]
     },
     plugins: [
+        // html-webpack-plugin 这个插件的作用
+        // 通过一个模版生产首页，然后，把输出文件自动嵌入到这个文件中
         new HtmlWebpackPlugin({
             template: './src/tpl/index.html'
         })

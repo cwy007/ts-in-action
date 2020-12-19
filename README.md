@@ -20,3 +20,8 @@
 * 熟练进行 TypeScript 工程配置；
 * 玩转四种典型前端应用的开发；
 * 重塑“类型思维”，提升编程素养。
+
+## 参考
+
+* [在线编写代码](https://tool.lu/coderunner/)
+* [TypeScript Playground](https://www.typescriptlang.org/play)
