@@ -25,7 +25,7 @@ tuple.push(2)
 // 函数
 // 类型注解
 // 通常返回值类型可以省略
-let add = (x: number, y: number) => x + y;
+// let add = (x: number, y: number) => x + y;
 // 函数类型
 let compute: (x: number, y: number) => number;
 compute = (a, b) => a + b;
