@@ -17,7 +17,7 @@ module.exports = {
             loader: "ts-loader",
           },
         ],
-        exclude: /node_modules/,
+        exclude: [/node_modules/, /sourcecode/], // 忽略 sourcecode 文件夹下的ts文件
       },
     ],
   },
