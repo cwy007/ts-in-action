@@ -42,9 +42,9 @@ class Auto {
 // 只有类的成员接口，没有具体实现
 //
 interface AutoInterface extends Auto {}
-class C implements AutoInterface {
-  state = 1;
-}
+// class C implements AutoInterface {
+//   state = 1;
+// }
 class Bus extends Auto implements AutoInterface {}
 
 // 接口可以继承接口，实现接口的复用

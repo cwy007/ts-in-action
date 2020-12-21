@@ -78,7 +78,7 @@ enum G {
 }
 
 let e: E = 3;
-let f: F = 3;
+// let f: F = 3;
 // console.log(e === f)
 
 let e1: E.a = 3;
